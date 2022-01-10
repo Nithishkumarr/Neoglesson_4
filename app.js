@@ -5,7 +5,7 @@ var outputdiv=document.querySelector("#output");
     // console.log(txtinput)
 
 function clickEventHandler() {
-    // console.log("clicked!!")
+    console.log("clicked!!")
     outputdiv.innerText = "translated tfyjgukhjmhfyugjh: "+txtinput.value
     // console.log("Input",txtinput.value)   
 }
